@@ -8,15 +8,20 @@ target/
 .apt_generated
 .classpath
 .factorypath
+# Log file
+*.log
 .project
+# BlueJ files
 .settings
 .springBeans
 .sts4-cache
 
 ### IntelliJ IDEA ###
+# Package Files #
 .idea
 *.iws
 *.iml
+*.ear
 *.ipr
 
 ### NetBeans ###
