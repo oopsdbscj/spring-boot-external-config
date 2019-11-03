@@ -1,20 +1,4 @@
-HELP.md
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**
-!**/src/test/**
-
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-# Log file
-*.log
-.project
-# BlueJ files
-.settings
-.springBeans
-.sts4-cache
 
 ### IntelliJ IDEA ###
 # Package Files #
@@ -23,14 +7,3 @@ target/
 *.iml
 *.ear
 *.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-
-### VS Code ###
-.vscode/
